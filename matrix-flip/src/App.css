@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+.sum{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.matrix-table{
+  border-collapse: collapse;
+}
+.cell{
+  border: 1px solid;
+  padding: 40px;
+}
+
+.highlight {
+  box-shadow: 0 0 1em #646cffaa;
+}
+.current {
+  box-shadow: 0 0 1em #92ff64aa;
+}
