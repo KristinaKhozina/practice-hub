@@ -1,8 +1,30 @@
-# React + Vite
+# Matrix-flip mini game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+### This is a mini game based on a problem I solved on the HackerRank platform. To create it, I used the React knowledge I got on the Full Stack open course Part 1. While making this project, I focused on creating **React components** that get the required values using **props**, and using the React **useState** hook. 
 
-Currently, two official plugins are available:
+## Links to resources used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Link to the problem on HackerRank](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
+
+[Link to part 1 of the FullStack open course](https://fullstackopen.com/en/part1)
+
+## Installation
+To install this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KristinaKhozina/practice-hub.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd matrix-flip
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the project:
+   ```bash
+   npm run dev
+   ```
